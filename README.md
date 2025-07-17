@@ -1,4 +1,4 @@
-# Pokédex
+# Pokedex
 
 Este projeto é uma **Pokédex** web simples que consome a [PokéAPI](https://pokeapi.co/) para exibir informações de Pokémons em um layout responsivo e interativo.
 
